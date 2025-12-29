@@ -1,4 +1,5 @@
-This is the repository of group 12 for the course of "02450 Introduction to Machine Learning" (DTU).
+This is the repository of group 12 for the course of "02450 Introduction to Machine Learning" (DTU).\
+This repository is a copy of [Aleksandar's repo](https://github.com/AleksandarLukic96/02450_Machine_Learning_and_Data_Mining), containing only the project material.
 
 Group members:
 - Andreis Marco: s243116
