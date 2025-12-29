@@ -1,0 +1,4 @@
+Model 1,Model 2,t-score,p-value,95%-CI (lower),95%-CI (upper)
+KNN,Baseline,-20.2573,8.111141153444855e-09,-0.2465,-0.197
+KNN,Logistic Regression,11.1285,1.459616209994666e-06,0.0657,0.0992
+Baseline,Logistic Regression,30.7659,1.9835076340907954e-10,0.2818,0.3265
