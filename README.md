@@ -4,7 +4,8 @@ This repository is a copy of [Aleksandar's repo](https://github.com/AleksandarLu
 Group members:
 - Andreis Marco: s243116
 - Bellini Martina: 243118
-- Lukic Aleksandar: 194066 \
+- Lukic Aleksandar: 194066
+  
 Contribution to the members to both reports are clearly stated in the first page of the report themselves.
 
 The project is divided in two parts:
